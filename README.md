@@ -30,7 +30,7 @@ The project leverages different machine learning models, evaluates their perform
 3. **Evaluation**: Models are evaluated using metrics like R-squared, MSE, MAE and RMSE.
 4. **Prediction**: The trained models are used to predict the compressive strength of new concrete mixes.
 
-To re-train the model and evaluate the performance use the *Thesis_HFRRAC.ipynb* notebook.
+To re-train the model and evaluate the performance use the [Thesis_HFRRAC](Thesis_HFRRAC.ipynb) notebook.
 
 ## Models Used
 - Linear Regression
@@ -59,10 +59,10 @@ The dataset used in this project includes features related to the concrete mix d
 - CatBoost and XGB also performed well, demonstrating the strength of ensemble learning methods.
 
 ## Contribution
-This prediction model was my undergraduate thesis project. I'm grateful to my supervisor- *Asst. Professor Mehedi Hasan*, Department of Building Engineering & Construction Management, Rajshahi University of Engineering & Technology- RUET.
+This prediction model was my undergraduate thesis project. I'm grateful to my supervisor- [Asst. Professor Mehedi Hasan](https://www.becm.ruet.ac.bd/mehedihasan), Department of Building Engineering & Construction Management, Rajshahi University of Engineering & Technology- RUET.
 
 I also acknowledge that this project were completed with the assistance and cordial support of-
-*Ehasnul Bashar Pranto*, Undergrad Student, Department of Statistics, University of Rajshahi.
+[Ehasnul Bashar Pranto](https://facebook.com/ehsanulbashar.pranto), Undergrad Student, Department of Statistics, University of Rajshahi.
 
 
 ## License
