@@ -4,20 +4,7 @@ from sklearn.impute import KNNImputer
 from sklearn.mixture import GaussianMixture
 
 def knn_gmm_imputation(df, column_with_missing, n_neighbors=5, n_components=10, random_state=42):
-    """
-    Function to perform KNN imputation followed by GMM-based refinement.
-    
-    Parameters:
-    df (pd.DataFrame): The dataset containing missing values.
-    column_with_missing (str): The name of the column with missing values.
-    n_neighbors (int): The number of neighbors for KNN Imputer (default: 5).
-    n_components (int): Number of components for Gaussian Mixture Model (default: 10).
-    random_state (int): Random seed for reproducibility (default: 42).
-    
-    Returns:
-    pd.DataFrame: The DataFrame with imputed and refined values.
-    """
-    
+   
     # Step 1: Perform KNN imputation on the selected column
     imputer = KNNImputer(n_neighbors=n_neighbors)
     X_imputed = imputer.fit_transform(df[[column_with_missing]])
