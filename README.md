@@ -5,7 +5,6 @@ This repository contains code and resources for predicting the compressive stren
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Models Used](#models-used)
 - [Dataset](#dataset)
