@@ -57,16 +57,10 @@ The dataset used in this project includes features related to the concrete mix d
 - CatBoost and XGB also performed well, demonstrating the strength of ensemble learning methods.
 
 ## Contribution
-This prediction model was my undergraduate thesis project. I'm grateful to my supervisor-
-*Asst. Professor Mehedi Hasan*,
-Department of Building Engineering & Construction Management,
-Rajshahi University of Engineering & Technology- RUET
+This prediction model was my undergraduate thesis project. I'm grateful to my supervisor- *Asst. Professor Mehedi Hasan*, Department of Building Engineering & Construction Management, Rajshahi University of Engineering & Technology- RUET.
 
 I also acknowledge that this project were compled with the assistance and cordial support of-
-*Ehasnul Bashar Pranto*,
-Undergrad Student,
-Department of Statistics,
-University of Rajshahi.
+*Ehasnul Bashar Pranto*, Undergrad Student, Department of Statistics, University of Rajshahi.
 
 
 ## License
